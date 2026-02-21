@@ -1,0 +1,1 @@
+worker: python qa_bot.py

@@ -5,7 +5,7 @@ from telegram import Update
 # YOUR DETAILS
 # =========================
 
-TOKEN = "8298919629:AAGV3B9GYorCyiIiIAWshQkZ4d1rgrZbGR0"
+TOKEN = "8298919629:AAHA2kT14ukNYoROHrlXkXXH-qiP514Z4W4"
 OWNER_ID = 821747442  # your user id
 
 
